@@ -1,0 +1,18 @@
+*
+{
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.red {
+    background-color: red !important;
+    color: white !important;
+    font-weight: bold;
+}
+
+.green {
+    background-color: green !important;
+    color: white !important;
+    font-weight: bold;
+}
